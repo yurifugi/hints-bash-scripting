@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 echo "concatenating strings"
 echo "type a phrase:"

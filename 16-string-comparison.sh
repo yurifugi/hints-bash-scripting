@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 echo "comparing strings"
 echo "type a phrase:"

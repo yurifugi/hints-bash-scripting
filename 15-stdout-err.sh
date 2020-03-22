@@ -1,4 +1,6 @@
 #! /bin/bash
+set -x
+
 >1.out
 >2.out
 

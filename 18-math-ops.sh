@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 echo "hard echo 1+1"
 echo 1+1

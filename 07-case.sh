@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 car="notfiesta"
 case $car in

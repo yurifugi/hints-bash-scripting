@@ -1,4 +1,8 @@
 #! /bin/bash
+
+set -x
+
+
 echo "need a filename as argument. exit with CTRL+c"
 
 while read line

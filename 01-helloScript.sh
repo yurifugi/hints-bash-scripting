@@ -1,5 +1,7 @@
 #! /bin/bash
 
+set -x
+
 echo "hello world!"
 echo -e "-e hello world!"
 echo "hello again"

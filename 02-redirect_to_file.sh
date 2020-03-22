@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 echo "Text editor. Write some thing, \
 then press CTRL+D to save and exit"

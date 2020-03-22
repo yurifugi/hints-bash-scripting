@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 echo "line 1
       line 2

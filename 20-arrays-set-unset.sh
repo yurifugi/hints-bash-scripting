@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 car=('fiesta' 'focus' 'beetle')
 

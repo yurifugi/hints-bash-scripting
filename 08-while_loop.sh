@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 counter=1
 while [ $counter -le 10 ]

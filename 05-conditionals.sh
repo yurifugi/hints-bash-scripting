@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 count=10
 # remember to keep space before and after the bracker [ x ]

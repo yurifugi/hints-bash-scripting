@@ -1,4 +1,8 @@
 #! /bin/bash
+
+set -x
+
+
 echo "need some parameters"
 
 echo "echo $1 $2 $3"

@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 age=10
 

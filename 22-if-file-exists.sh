@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 dirname="newdirectory"
 filename="newfile"

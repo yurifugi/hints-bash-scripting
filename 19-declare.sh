@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 
 # read only
 declare -r pwdfile=/etc/passwd
