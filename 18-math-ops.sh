@@ -48,3 +48,7 @@ echo "Type some hex number, uppercase"
 read HEXNUMBER
 echo -n "converted to dec is "
 echo "obase=10; ibase=16; $HEXNUMBER" | bc
+
+
+echo $((3+4))
+

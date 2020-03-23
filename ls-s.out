@@ -1,0 +1,20 @@
+total 612924
+    52 [
+     4 2to3-2.7
+     4 7z
+     4 7za
+     4 7zr
+    24 aa-enabled
+    24 aa-exec
+    20 aconnect
+    16 acpi_listen
+     0 adb
+     8 add-apt-repository
+    24 addpart
+     0 addr2line
+    44 alsabat
+    76 alsaloop
+    68 alsamixer
+    12 alsatplg
+    16 alsaucm
+    24 amidi

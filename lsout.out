@@ -1,0 +1,25 @@
+ 
+assert.awk 383
+bits2str.awk 330
+cliff_rand.awk 307
+ctime.awk 234
+ftrans.awk 315
+getopt.awk 2202
+gettime.awk 2491
+group.awk 1777
+inplace.awk 1069
+join.awk 378
+libintl.awk 238
+noassign.awk 422
+ord.awk 937
+passwd.awk 1212
+processarray.awk 355
+quicksort.awk 1031
+readable.awk 489
+readfile.awk 267
+rewind.awk 404
+round.awk 661
+shellquote.awk 472
+strtonum.awk 1454
+walkarray.awk 214
+zerofile.awk 424
