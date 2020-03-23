@@ -18,3 +18,5 @@ awk '/b/ {print}' lsout.out
 awk '/b/ {print $1}' lsout.out
 
 awk ' {print $2/1024"K"}' lsout.out
+
+rm -f lsout.out
